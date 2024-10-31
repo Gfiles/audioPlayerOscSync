@@ -1,0 +1,1 @@
+Python app that with play a video or audio file and send osc Messages to any oscServer configured in settings file.
